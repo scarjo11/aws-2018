@@ -1,7 +1,7 @@
 {
   "name": "l03",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application de AWS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
