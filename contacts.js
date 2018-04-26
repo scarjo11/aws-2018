@@ -13,7 +13,7 @@ Contacts.prototype.connectDb = function(callback) {
         
         db = database.db('aws').collection('contacts');
         
-        callback(err, database);
+        callback(err, db);
     });
 };
 
